@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\aleja\Documents\Atmel Studio\7.0\Laboratorio2-Completo\Laboratorio2-Completo\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\aleja\Documents\Atmel Studio\7.0\Laboratorio2-Completo\Laboratorio2-Completo\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\aleja\Documents\Atmel Studio\7.0\Laboratorio2-Completo\Laboratorio2-Completo\Debug\Laboratorio2-Completo.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Laboratorio2-Completo.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Laboratorio2-Completo.map</FILE>
+  <FILE>Laboratorio2-Completo.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <t7s><FILE>C:\Users\aleja\Documents\Atmel Studio\7.0\Laboratorio2-Completo\Laboratorio2-Completo\main.asm</FILE><LINE>38</LINE></t7s>
+  <Setup><FILE>C:\Users\aleja\Documents\Atmel Studio\7.0\Laboratorio2-Completo\Laboratorio2-Completo\main.asm</FILE><LINE>44</LINE></Setup>
+  <SET7SEG><FILE>C:\Users\aleja\Documents\Atmel Studio\7.0\Laboratorio2-Completo\Laboratorio2-Completo\main.asm</FILE><LINE>134</LINE></SET7SEG>
+  <LOOP><FILE>C:\Users\aleja\Documents\Atmel Studio\7.0\Laboratorio2-Completo\Laboratorio2-Completo\main.asm</FILE><LINE>70</LINE></LOOP>
+  <RESETEA><FILE>C:\Users\aleja\Documents\Atmel Studio\7.0\Laboratorio2-Completo\Laboratorio2-Completo\main.asm</FILE><LINE>124</LINE></RESETEA>
+  <DELAY><FILE>C:\Users\aleja\Documents\Atmel Studio\7.0\Laboratorio2-Completo\Laboratorio2-Completo\main.asm</FILE><LINE>96</LINE></DELAY>
+  <DELAY2><FILE>C:\Users\aleja\Documents\Atmel Studio\7.0\Laboratorio2-Completo\Laboratorio2-Completo\main.asm</FILE><LINE>108</LINE></DELAY2>
+  <delayy><FILE>C:\Users\aleja\Documents\Atmel Studio\7.0\Laboratorio2-Completo\Laboratorio2-Completo\main.asm</FILE><LINE>98</LINE></delayy>
+  <delayy2><FILE>C:\Users\aleja\Documents\Atmel Studio\7.0\Laboratorio2-Completo\Laboratorio2-Completo\main.asm</FILE><LINE>110</LINE></delayy2>
+ </LABELS>
+</ASSEMBLER_INFO>
